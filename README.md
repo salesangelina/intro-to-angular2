@@ -1,1 +1,1 @@
-# intro-to-angular2
+# Intro to Angular2
